@@ -1,4 +1,4 @@
 python-telegram-bot==20.7
-feedparser
 apscheduler
-requests
+feedparser==6.0.10
+requests==2.31.0
